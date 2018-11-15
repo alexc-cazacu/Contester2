@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Contester</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Concursuri</string>
+    <string name="title_notifications">Calendar</string>
+</resources>
